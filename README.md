@@ -1,5 +1,5 @@
 Esse é um site simples criado com html e um pouco de css. 
-Aqui nesse desáfio de projeto proposto pelo expert Diogo Mainardes, foi proposto que criasse um site semelhante ao wikipedia com o assundo de interesse.
+Aqui nesse desáfio de projeto proposto pelo expert Diogo Mainardes da DIO, foi proposto que criasse um site semelhante ao wikipedia com o assundo de interesse.
 
 Foi um desáfio interessante, pude ver minha melhoria. Apesar de ser um site simpless, foi muito satisfatorio ver meu código rodando.
 
